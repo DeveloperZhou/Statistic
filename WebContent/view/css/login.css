@@ -1,0 +1,26 @@
+table{
+	text-align:center;
+	border-top:1px solid #ccc;
+	border-left:1px solid #ccc;
+}
+.tableTitle{
+	font-weight:bold;
+}
+td{
+	border-bottom:1px solid #ccc;
+	border-right:1px solid #ccc;
+}
+.text{
+	width:200px;
+	border:1px solid #ccc;
+}
+.button{
+	border:1px solid #ccc;
+	background:#000;
+	color:#fff;	
+	width:200px;
+}
+#userError,#pwdError{
+	width:150px;
+	color:#ff0000;
+}
